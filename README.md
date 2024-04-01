@@ -1,1 +1,2 @@
-# INSY695-PowerBI-FinalProject
+# Store Location Optimization Dashboard
+In this project, a comprehensive dashboard was developed to aid 24Seven, a growing convenience store chain, in selecting the optimal location for their new outlet. Leveraging historical sales, customer, and store performance data, alongside external datasets, the dashboard provided a user-friendly interface to assess potential sites based on predefined Key Performance Indicators (KPIs). Through meticulous analysis and visualization, the dashboard facilitated evidence-based decision-making, ensuring alignment with 24Seven's strategic goals and enhancing the likelihood of success for their new store venture.
